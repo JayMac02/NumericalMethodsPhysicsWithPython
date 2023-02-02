@@ -33,3 +33,5 @@ if __name__ == '__main__':
     xolds = np.array([2.,0.25])
     xnews = descent(phi, gradient, xolds)
     print(xnews)
+
+print("Physics is so fun!")   
