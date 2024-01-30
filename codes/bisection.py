@@ -35,4 +35,4 @@ if __name__ == '__main__':
     root = bisection(f,1.5,3.)
     print(root)
 
-print(edit me)
+#print(edit me)
